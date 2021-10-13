@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "0.0.0",
+  # lerna.json 文件加入
+"useWorkspaces": true,
+"npmClient": "yarn",
+}
